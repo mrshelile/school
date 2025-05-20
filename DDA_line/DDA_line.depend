@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742810571 source:c:\users\administrator\desktop\projects\school\dda_line\main.c
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+

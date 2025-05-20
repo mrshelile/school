@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745956102 source:c:\users\administrator\desktop\projects\school\cohen-sutherlan2dclipping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

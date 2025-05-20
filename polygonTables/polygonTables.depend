@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746388119 source:c:\users\administrator\desktop\projects\school\polygontables\main.c
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+

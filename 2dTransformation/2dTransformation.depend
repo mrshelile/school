@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744029548 source:c:\users\administrator\desktop\projects\school\2dtransformation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744624167 source:c:\users\administrator\desktop\projects\school\circledrawbresenham\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+

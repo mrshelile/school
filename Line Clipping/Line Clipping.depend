@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745958881 source:c:\users\administrator\desktop\projects\school\line clipping\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+
