@@ -66,6 +66,7 @@ void DDA(float X0,float Y0,float X1,float Y1){
 
  // Draw all points using incremental steps
  for( int v=0; v <steps;v++){
+
     X = X + Xincrement;
     Y = Y + Yincrement;
 
